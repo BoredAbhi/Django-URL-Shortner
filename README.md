@@ -1,4 +1,4 @@
-##A URL shortener built with Django
+## A URL shortener built with Django
 
 This is a WIP URL shortener in python & Django. To run it use the following commands:
 
@@ -8,7 +8,7 @@ python -m venv venv
 pip install -r requirements.txt
 python manage.py runserver
 
-##To-Do:
+##  To-Do:
 
 1. Deploy the same in AWS
 2. Add a GIF demo of the project.
